@@ -1,10 +1,9 @@
 <?php
-// api/config.php
 
 $host = 'localhost';
 $db   = 'product_catalog';
 $user = 'root';
-$pass = ''; // set your MySQL password
+$pass = ''; 
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
