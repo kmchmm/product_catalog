@@ -2,8 +2,6 @@
 /vendor/
 
 # Environment files
-.env
-.env.local
 .env.*.local
 
 # OS files
@@ -17,7 +15,6 @@ tmp/
 *.cache
 
 # IDEs
-/.vscode/
 /.idea/
 /*.iml
 
@@ -26,3 +23,4 @@ node_modules/
 
 # PHPUnit cache
 .phpunit.result.cache
+config.bat
