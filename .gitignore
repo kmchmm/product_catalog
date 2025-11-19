@@ -1,0 +1,28 @@
+# Composer dependencies
+/vendor/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+/logs/
+tmp/
+*.log
+*.cache
+
+# IDEs
+/.vscode/
+/.idea/
+/*.iml
+
+# Node modules (if you ever use JS frontend)
+node_modules/
+
+# PHPUnit cache
+.phpunit.result.cache
